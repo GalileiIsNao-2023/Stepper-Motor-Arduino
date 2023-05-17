@@ -1,1 +1,1 @@
-# Stepper-Motor-NAO
+# Stepper Motor Arduino
